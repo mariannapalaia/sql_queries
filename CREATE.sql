@@ -1,3 +1,7 @@
+-- CREATE DATABASE
+
+CREATE DATABASE coffee;
+
 -- CREATE TABLES 
 
 -- Create employees table 
