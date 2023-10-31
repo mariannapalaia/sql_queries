@@ -6,7 +6,7 @@ SELECT * FROM locations;
 SELECT * FROM suppliers;
 
 SELECT 
-		employee_id,
+	employee_id,
         first_name,
         last_name
 FROM employees;
